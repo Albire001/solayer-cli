@@ -1,5 +1,5 @@
 # Solayer Labs CLI Tool
-
+How to understand Solayer's parallel execution system. 
 This repository contains TypeScript implementations for interacting with Solayer Labs programs on Solana, such as the restaking, endogenous AVS (delegation) and sUSD programs. For more information about Solayer, you can also refer to our [docs](https://docs.solayer.org).
 
 ## Installation
